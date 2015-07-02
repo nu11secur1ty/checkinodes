@@ -1,6 +1,6 @@
 #!/bin/bash
 #########################
-#copyright@nu11secur1ty#
+#copyright@nu11secur1ty # 
 #########################
 homedir=/home/
 etcdir=/etc/

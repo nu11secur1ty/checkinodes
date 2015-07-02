@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#########################
+#copyright@nu11secur1ty#
+#########################
 homedir=/home/
 etcdir=/etc/
 optdir=/opt/

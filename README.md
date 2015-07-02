@@ -10,7 +10,7 @@ Example output:
 [root@nu11 checkinode]# bash checkinode.sh 
 Welcome to checkinode directory, press Enter to continue...
 
-Check.../home/
+Check.../home/<br>
 Check.../etc/
 Check.../opt/
 Check.../root/
